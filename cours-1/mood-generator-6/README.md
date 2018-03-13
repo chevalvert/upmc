@@ -3,16 +3,17 @@
 ## Résumé
 
 Tous les visages possibles sont générés et enregistrés, puis le programme quitte.
+![mood-generator-1.png](overview/mood-generator-1.png)
 
 ## Description du programme
 
 - Au lancement du programme, on créé trois listes `tops`, `middles` et `bottoms` qui contiendront nos images chargées.
-- Pour chaque liste, on itère chacun de ses items, et on lui assigne chacune des images correspondantes.
+- Pour chaque liste, on itère chacun de ses items, et on leur assigne à chacun les images correspondantes.
 - La fonction `generate()` ne charge plus les images en mémoire, mais change juste l'index de chaque liste d'images.
 
 ## Remarques
 
-- un _array_ est une liste de plusieurs valeurs.
+- un _array_ est une liste ou un tableau de plusieurs valeurs.
 - on déclare un _array_ comme suit :
 >```java
 >type[] nomDeLaVariable = new type[longueurDeLArray];
@@ -29,9 +30,27 @@ Tous les visages possibles sont générés et enregistrés, puis le programme qu
 >  println(myFavoriteNumbers[i]);
 >}
 >```
-- **ATTENTION: ** le premier item d'un array est à l'index `0`, et non `1` (`monArray[1]` correspond au deuxième item). Le dernier item d'un array de longueur `N` sera donc à l'index `N - 1`
+- **ATTENTION :** le premier item d'un array est à l'index `0`, et non `1` (`monArray[1]` correspond au deuxième item).  
+Le dernier item d'un array de longueur `N` sera donc à l'index `N - 1`
+
+## La notion de permutation
+Le programme que nous avons généré utilise un groupe de 6 images (correspondantes aux 6 émotions de base listés par Ekman). Chacune de ces 6 images est décortiquée en trois segments, qui sont ensuite combinés pour générer un maximum de 216 expressions uniques/différentes (6 x 6 x 6).  
+Le programme produit toutes les permutations de notre ensemble d'objets 6 images d'émotions. 
+On parle de permutation algorithmique, de design d'émergence et de design systémique.
+
+- **Exercices :** 
+	- Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs
+	- Utiliser les sketchs que nous avons analysé ensemble pour générer un ensemble d'images issues d'un process systémique 
 
 ## Pour aller plus loin
 
-[→ Tutorials \ Processing.org](https://processing.org/tutorials/)   
-[→ Learning Processing 2nd Edition](http://learningprocessing.com/)
+### Ressources en ligne
+[→ Reference \ Processing.org](https://processing.org/reference/)  
+[→ Tutorials \ Processing.org](https://processing.org/tutorials/)    
+[→ Learning Processing par Daniel Shiffman](http://learningprocessing.com/exercises/)   
+[→ Vidéo tutoriels par Daniel Shiffman](https://www.youtube.com/user/shiffman/videos)  
+
+### Publications
+[→ Learning Processing](http://learningprocessing.com/)  
+[→ Processing. S'initier à la programmation créative](https://www.dunod.com/sciences-techniques/processing-initier-programmation-creative)  
+[→ Processing: Le code informatique comme outil de création](https://www.amazon.fr/gp/product/B0074HCKW8/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=bandedessinees-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=B0074HCKW8)  

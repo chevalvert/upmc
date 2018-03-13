@@ -3,6 +3,7 @@
 ## Résumé
 
 Tous les visages possibles sont générés et enregistrés, puis le programme quitte.
+![mood-generator-1.png](overview/mood-generator-1.png)
 
 ## Description du programme
 
@@ -17,14 +18,13 @@ Tous les visages possibles sont générés et enregistrés, puis le programme qu
 
 ## Remarques
 
-- on définit une boucle `for` comme suit :
+- On définit une boucle `for` comme suit :
 >```java
 >for (int i = 0; i < 100; i++) {
 >  // ce code sera exécuté 100 fois, avec i == 0 à la première itération, 
 >  // puis i == 1, puis i == 2, etc jusqu'à i == 99
 >}
 >```
-
 
 ## Pour aller plus loin
 

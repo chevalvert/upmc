@@ -2,14 +2,16 @@
 
 ## Résumé
 
-Un nouveau visage est regénéré aléatoirement toutes les 3 secondes.
+Un nouveau visage est regénéré aléatoirement toutes les 3 secondes.  
+  
+<img src="overview/preview.gif?raw=true">
 
 ## Description du programme
 
 - Au lancement du programme, on charge aléatoirement l'une des 6 images de chacun des dossiers `top/`, `middle/` et `bottom/` en mémoire.
 - On dessine les trois images chargées en mémoire l'une sur l'autre.
 - A chaque frame (60 fois par seconde par défaut sur Processing), on incrémente une variable `counter`.
-- Si `counter` est supérieur à `3 * 60`, trois secondes sont passées, et on peut :
+- Si `counter` est supérieur à `3 * 60` trois secondes sont passées, et on peut :
   - remettre `counter` à zéro.
   - générer un nouveau visage en exécutant la fonction `generate()`
 
