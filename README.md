@@ -32,13 +32,13 @@ Processing est est une bibliothèque Java et un environnement de développement 
 ## Sujet de départ
 En lien avec Simon Renaud, nous vous proposons comme point de départ l'étude des 6 émotions de base définies par Paul Ekman. Vous réaliserez ensuite des programmes/expériences/objets en lien avec ce sujet.
 
-Les 6 expressions faciales universelles définies par Ekman en 1972 sont :
-1 — Tristesse  
-2 — Colère  
-3 — Peur  
-4 — Dégoût  
-5 — Surprise  
-6 — Joie  
+Les 6 expressions faciales universelles définies par Ekman en 1972 sont :  
+1- Tristesse  
+2- Colère  
+3- Peur  
+4- Dégoût  
+5- Surprise  
+6- Joie  
 
 Les caractéristiques de ces émotions de base :
 - Elles sont biologiquement préprogrammées.
@@ -51,11 +51,11 @@ Les caractéristiques de ces émotions de base :
 ![ekman-emotions.png](ressources/ekman-emotions.png)
 
 ## Processus de documentation 
-Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela nous
-	- Analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
-	- Vous réaliserez la note d'intention de votre projet, les diagrammes d'interaction, les descriptifs de vos programmes, les croquis de mise en situation
-	- Vous documenterez la réalisation et le projet final en vidéo
-	- Nous créérons un dossier sur le Github du workshop pour mettre en ligne tous vos codes [Github](https://github.com/)
+Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela nous:
+- Analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
+- Vous réaliserez la note d'intention de votre projet, les diagrammes d'interaction, les descriptifs de vos programmes, les croquis de mise en situation
+- Vous documenterez la réalisation et le projet final en vidéo
+- Nous créérons un dossier sur le Github du workshop pour mettre en ligne tous vos codes [Github](https://github.com/)
 
 ## Pour commencer
 [→ Importer, disposer et afficher une image](/cours-1/mood-generator-0)
