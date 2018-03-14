@@ -33,18 +33,6 @@ Tous les visages possibles sont générés et enregistrés, puis le programme qu
 - **ATTENTION :** le premier item d'un array est à l'index `0`, et non `1` (`monArray[1]` correspond au deuxième item).  
 Le dernier item d'un array de longueur `N` sera donc à l'index `N - 1`
 
-## La notion de permutation
-
-Le programme que nous avons généré utilise un groupe de 6 images (correspondantes aux 6 émotions de base listés par Ekman). Chacune de ces 6 images est décortiquée en trois segments, qui sont ensuite combinés pour générer un maximum de 216 expressions uniques/différentes (6 x 6 x 6).  
-Le programme produit toutes les permutations de notre ensemble d'objets 6 images d'émotions. 
-On parle de permutation algorithmique, de design d'émergence et de design systémique.
-
-- **Exercices :** 
-
-	- Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs (exercice individuel)
-	- Utiliser les sketchs que nous avons analysé ensemble pour générer des images issues d'un process systémique (exercice individuel) 
-	- Par groupes de 3 personnes : imagine, réaliser et documenter un programme/expérience/objet en lien avec le sujet du workshop : les 6 émotions de base de Ekman
-
 ## Pour aller plus loin
 
 ### Ressources en ligne
@@ -62,10 +50,11 @@ On parle de permutation algorithmique, de design d'émergence et de design syst�
 
 ### Sites de veille
 
-[→ Creative Applications](http://www.creativeapplications.net/)
-[→ Chrome experiments](https://experiments.withgoogle.com/chrome)
-[→ Creative AI](http://www.creativeai.net/)
-[→ Designboom](https://www.designboom.com/)
+[→ Creative Applications](http://www.creativeapplications.net/)  
+[→ Chrome experiments](https://experiments.withgoogle.com/chrome)  
+[→ Creative AI](http://www.creativeai.net/)  
+[→ Designboom](https://www.designboom.com/)  
 
 ## Pour aller plus loin dans la manipulation d'images sur Processing
+
 [→ Manipuler des images](../../ressources/00_image)

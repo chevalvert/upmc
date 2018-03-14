@@ -2,7 +2,10 @@
 
 ## Résumé
 
+Le programme que nous allons générer utilise un groupe de 6 images (correspondantes aux 6 émotions de base listés par Ekman). Chacune de ces 6 images est décortiquée en trois segments, qui sont ensuite combinés pour générer un maximum de 216 expressions uniques/différentes (6 x 6 x 6).  
+
 Tous les visages possibles sont générés et enregistrés, puis le programme quitte.
+
 ![mood-generator-1.png](overview/mood-generator-1.png)
 
 ## Description du programme

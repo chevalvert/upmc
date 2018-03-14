@@ -14,8 +14,16 @@
 
 ### `color()` 
 Cette commande permet de stocker les composantes nécessaires à la création d'une couleur.
-Chaque composante peut être extraite par les commandes `red()` `green()` `blue()` `alpha()` `hue()` `saturation()` `brightness()`
+Chaque composante peut être extraite par les commandes :
+- `red()`
+- `green()`
+- `blue()`
+- `alpha()`
+- `hue()`
+- `saturation()`
+- `brightness()`
 
+###### Exemple
 >```java
 >color violet = color(180,0,255);
 >background(violet);
@@ -24,90 +32,98 @@ Chaque composante peut être extraite par les commandes `red()` `green()` `blue(
 ### `get()`
 Cette commande permet d'obtenir la valeur couleur d'un pixel de l'écran.
 
-[→ Exemple de programme obtenant la couleur d'un pixel de l'écran](sketch_1)
->```java
->PImage img;
->
->void setup() {
->  size(292, 168);
->  img = loadImage("data/mood-generator-1.png");
->  image(img, 0, 0);
->}
->
->void draw() {
->  // obtenir la valeur couleur d'un pixel de l'écran
->  color maCouleur = get(mouseX, mouseY);
->  // extraction de la composante rouge de la variable maCouleur
->  float r = red(maCouleur);
->  float g = green(maCouleur);
->  float b = blue(maCouleur);
->
->  fill(r, g, b);
->  rect(width/2, 0, width/2, height);
->}
->```
+#### Exemple
+Programme obtenant la couleur d'un pixel de l'écran.
+
+###### [`sketch_1.pde`](sketch_1/sketch_1.pde)
+```java
+PImage img;
+
+void setup () {
+size(292, 168);
+img = loadImage("data/mood-generator-1.png");
+image(img, 0, 0);
+}
+
+void draw () {
+// obtenir la valeur couleur d'un pixel de l'écran
+color maCouleur = get(mouseX, mouseY);
+// extraction de la composante rouge de la variable maCouleur
+float r = red(maCouleur);
+float g = green(maCouleur);
+float b = blue(maCouleur);
+
+fill(r, g, b);
+rect(width/2, 0, width/2, height);
+}
+```
 
 ![sketch_00.png](sketch_0/overview/sketch_00.png)
 ![sketch_01.png](sketch_0/overview/sketch_01.png)
 ![sketch_02.png](sketch_0/overview/sketch_02.png)
 
-[→ Exemple de programme obtenant la couleur d'un pixel de l'image](sketch_1)
->```java
->PImage img;
->
->void setup(){
->  size(726, 444);
->  img = loadImage("data/ekman-emotions.png");
->  image(img,0,0);
->  for (int a = 0; a < width; a++){
->    color maCouleur = img.get(a,20);
->    stroke(maCouleur);
->    line(a,0,a,height/1.25);
->  }
->}
->```
+#### Exemple
+Programme obtenant la couleur d'un pixel de l'image.
+###### [`sketch_1.pde`](sketch_1)
+```java
+PImage img;
+
+void setup(){
+  size(726, 444);
+  img = loadImage("data/ekman-emotions.png");
+  image(img,0,0);
+  for (int a = 0; a < width; a++){
+    color maCouleur = img.get(a,20);
+    stroke(maCouleur);
+    line(a,0,a,height/1.25);
+  }
+}
+```
 ![sketch_1.png](sketch_1/overview/sketch_1.png)
 
-[→ Exemple de programme obtenant la couleur d'un pixel de l'image et animation du pattern](sketch_2)
->```java
->PImage img;
->int y = 0;
->
->void setup() {
->  size(726, 444);
->  img = loadImage("data/ekman-emotions.png");
->  image(img, 0, 0);
->}
->
->void draw() {
->  for (int a = 0; a < width; a++) {
->    color maCouleur = img.get(a, y);
->    stroke(maCouleur);
->    line(a, 0, a, height/1.25);
->  }
->  y++;
->  if (y>=height) {
->    y = 0;
->  }
->}
->```
+#### Exemple
+Programme obtenant la couleur d'un pixel de l'image et animation du pattern.
+
+###### [`sketch_2.pde`](sketch_2)
+```java
+PImage img;
+int y = 0;
+
+void setup () {
+  size(726, 444);
+  img = loadImage("data/ekman-emotions.png");
+  image(img, 0, 0);
+}
+
+void draw () {
+  for (int a = 0; a < width; a++) {
+    color maCouleur = img.get(a, y);
+    stroke(maCouleur);
+    line(a, 0, a, height/1.25);
+  }
+  y++;
+  if (y=height) {
+    y = 0;
+  }
+}
+```
 
 <img src="sketch_2/overview/sketch_2.gif?raw=true">
 
-### set()
+### `set()`
 Cette commande attribue une valeur précise à un pixel.
 `set(x,y,couleur);`
 
-[→ Exemple de programme obtenant la couleur d'un pixel de l'image et l'appliquant à une grille de pixels](sketch_3)
+[→ Exemple de programme obtenant la couleur d'un pixel de l'image et l'appliquant à une grille de pixels](sketch_3/sketch_3.pde)
 >```java
 >PImage img;
 >
->void setup() {
+>void setup () {
 >  size(726, 444);
 >  img = loadImage("data/ekman-emotions.png");
->}>
+>}
 >
->void draw() {
+>void draw () {
 >  // obtenir la valeur couleur d'un pixel de l'écran
 >  color maCouleur = get(mouseX, mouseY);
 >  for (int x=10; x<width-10; x+=5) {
@@ -171,14 +187,14 @@ Nous pouvons l'employer en utilsiant ces quatre syntaxes :
 >PImage img;>
 >
 >// fonction pour adapter la taille de la fenêtre à la taille de l'image source
->void settings() {
+>void settings () {
 >  img = loadImage("data/ekman-emotions.png");
 >  size(img.width, img.height);
 >}
->void setup() {
+>void setup () {
 >}
 >
->void draw() {
+>void draw () {
 >  img.copy(img, 0, 0, width, height, width/4, height/4, width/2, height/2);
 >  image(img, 0, 0);
 >}
