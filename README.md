@@ -12,17 +12,18 @@ Nous imaginons et réalisons des installations en utilisant du hardware et du so
 - [Le temps Suspendu](https://chevalvert.fr/installation/le-temps-suspendu/)
 - [Mechane](https://chevalvert.fr/installation/mechane/)
 
-Nous réalisons aussi des dispositifs en utilisant le software de programmation graphique [Processing](https://processing.org/).  
-[Ink under paper](https://chevalvert.fr/installation/ink-under-paper/)  
+Nous réalisons aussi des dispositifs en utilisant le software de programmation graphique [Processing](https://processing.org/) :  
+- [Ink under paper](https://chevalvert.fr/installation/ink-under-paper/)  
 Dans ce projet nous questionnons le lien entre la matière physique (le papier) et la matière numérique (l'encre digitale créée avec un algorithme qui simule un comportement liquide). 
 
+-[Mechanical Frames](https://chevalvert.fr/installation/mechanical-frames/)
 Une autre possibilité est de lier la génération graphique de Processing à des données physiques qui sont transmises au programme par la carte électronique ([Arduino](https://www.arduino.cc/)), reliée à son tous à des capteurs.  
-[Mechanical Frames](https://chevalvert.fr/installation/mechanical-frames/)
+
 
 ## Qu'est-ce que Processing ?
 Processing est est une bibliothèque Java et un environnement de développement libre. L'outil créé par [Ben Fry](https://fathom.info/about/) et [Casey Reas](http://reas.com/) est un le logiciel de programmation dédié à la création plastique et graphique interactive. 
 
-[Site web du logiciel + ressources](https://processing.org/)
+[Site web du logiciel + ressources](https://processing.org/)  
 [Plateforme d'échange de sketchs de la communauté](https://www.openprocessing.org/)
 
 ## Déroulé du workshop
@@ -30,10 +31,10 @@ Processing est est une bibliothèque Java et un environnement de développement 
 - S'initier à Processing en analysant les programmes fournis par nos soins
 - Réaliser vos propres programmes en vous les réappropriant
 - Découvrir la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs
-- Appliquer cette méthodologie pour réaliser par groupes de 3 un programme, un dispositif ou une expérience que vous présenterez lors de la dernière séance.
+- Appliquer cette méthodologie pour réaliser par groupes de 3 un programme, un dispositif ou une expérience que vous documenterez et présenterez lors de la dernière séance.
 
 ## Sujet de départ
-En lien avec Simon Renaud, nous vous proposons d'étudier les 6 émotions de base définies par Paul Ekman pour ensuite créer un ensemble de programmes qui les questionnent.
+En lien avec Simon Renaud, nous vous proposons comme point de départ l'étude des 6 émotions de base définies par Paul Ekman. Vous réaliserez ensuite des programmes/expériences/objets en lien avec ce sujet.
 
 Les 6 expressions faciales universelles définies par Ekman en 1972 sont :
 1 — Tristesse  
@@ -53,12 +54,12 @@ Les caractéristiques de ces émotions de base :
 
 ![ekman-emotions.png](ressources/ekman-emotions.png)
 
-**Note pour Julia et Arnaud**
-- Découvrir la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs :
-	- étude de cas de projets réalisés au studio Chevalvert
-	- réalisation de diagrammes d'interaction et de notes d'intention
-	- documentation vidéo
-	- documentation sur [Github](https://github.com/)
+## Processus de documentation 
+Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela nous
+	- Analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
+	- Vous réaliserez la note d'intention de votre projet, les diagrammes d'interaction, les descriptifs de vos programmes, les croquis de mise en situation
+	- Vous documenterez la réalisation et le projet final en vidéo
+	- Nous créérons un dossier sur le Github du workshop pour mettre en ligne tous vos codes [Github](https://github.com/)
 
 ## Pour commencer
-[→ Importer, disposer et afficher une image](ressources/00_image)
+[→ Importer, disposer et afficher une image](/cours-1/mood-generator-0)

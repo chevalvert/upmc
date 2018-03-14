@@ -34,27 +34,38 @@ Tous les visages possibles sont générés et enregistrés, puis le programme qu
 Le dernier item d'un array de longueur `N` sera donc à l'index `N - 1`
 
 ## La notion de permutation
+
 Le programme que nous avons généré utilise un groupe de 6 images (correspondantes aux 6 émotions de base listés par Ekman). Chacune de ces 6 images est décortiquée en trois segments, qui sont ensuite combinés pour générer un maximum de 216 expressions uniques/différentes (6 x 6 x 6).  
 Le programme produit toutes les permutations de notre ensemble d'objets 6 images d'émotions. 
 On parle de permutation algorithmique, de design d'émergence et de design systémique.
 
 - **Exercices :** 
-	- Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs
-	- Utiliser les sketchs que nous avons analysé ensemble pour générer un ensemble d'images issues d'un process systémique 
+
+	- Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs (exercice individuel)
+	- Utiliser les sketchs que nous avons analysé ensemble pour générer des images issues d'un process systémique (exercice individuel) 
+	- Par groupes de 3 personnes : imagine, réaliser et documenter un programme/expérience/objet en lien avec le sujet du workshop : les 6 émotions de base de Ekman
 
 ## Pour aller plus loin
 
 ### Ressources en ligne
+
 [→ Reference \ Processing.org](https://processing.org/reference/)  
 [→ Tutorials \ Processing.org](https://processing.org/tutorials/)    
 [→ Learning Processing par Daniel Shiffman](http://learningprocessing.com/exercises/)   
 [→ Vidéo tutoriels par Daniel Shiffman](https://www.youtube.com/user/shiffman/videos)  
 
 ### Publications
+
 [→ Learning Processing](http://learningprocessing.com/)  
 [→ Processing. S'initier à la programmation créative](https://www.dunod.com/sciences-techniques/processing-initier-programmation-creative)  
 [→ Processing: Le code informatique comme outil de création](https://www.amazon.fr/gp/product/B0074HCKW8/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=bandedessinees-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=B0074HCKW8)  
 
+### Sites de veille
 
-## Pour aller plus loin
+[→ Creative Applications](http://www.creativeapplications.net/)
+[→ Chrome experiments](https://experiments.withgoogle.com/chrome)
+[→ Creative AI](http://www.creativeai.net/)
+[→ Designboom](https://www.designboom.com/)
+
+## Pour aller plus loin dans la manipulation d'images sur Processing
 [→ Manipuler des images](../../ressources/00_image)

@@ -185,4 +185,3 @@ Nous pouvons l'employer en utilsiant ces quatre syntaxes :
 >```
 
 <img src="sketch_4/overview/sketch_4.png">
-

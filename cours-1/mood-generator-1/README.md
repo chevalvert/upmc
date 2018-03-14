@@ -6,11 +6,10 @@ Le programme génère un visage aléatoire à partir de trois parties de visages
 
 ![mood-generator-1.png](overview/mood-generator-1.png)
 
-
 ## Description du programme
 
-- Au lancement du programme, on charge aléatoirement l'une des 6 images de chacun des dossiers `top/`, `middle/` et `bottom/` en mémoire.
-- On dessine les trois images chargées en mémoire l'une sur l'autre.
+- Au lancement du programme, on charge en mémoire et aléatoirement l'une des 6 images de chacun des dossiers `top/`, `middle/` et `bottom/`
+- On affiche les trois images chargées en mémoire l'une sur l'autre.
 
 ## Remarques
 

@@ -2,7 +2,8 @@
 
 ## Résumé
 
-À chaque fois que l'utilisateur clique sur une partie d'une visage, le programme la change aléatoirement.
+À chaque fois que l'utilisateur clique sur une partie d'une visage, le programme la change aléatoirement.  
+
 ![mood-generator-1.png](overview/mood-generator-1.png)
 ![mood-generator-2.png](overview/mood-generator-2.png)
 ![mood-generator-3.png](overview/mood-generator-3.png)

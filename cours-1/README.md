@@ -1,13 +1,13 @@
 # Index de contenus du cours n°1
 
-## [Images : importer et afficher](cours-1)
+## Images : importer et afficher
 ### objet `PImage`
 ### fonction `random()`
 ### fonction `void keyPressed () { ... }`
 ### structures conditionnelles `if(){ } else if { } else { }`
 ### variables `mouseX` et `mouseY`
 ### variable temps `counter`
-### fonctions personnalisées `generate ()`
+### fonctions personnalisées `nomDeMaFonction()`
 ### boucle `for()`
 ### fonction `exit()`
 ### fonction `save()`

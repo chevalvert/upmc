@@ -14,7 +14,7 @@
 
 - Au lancement du programme, on charge aléatoirement l'une des 6 images de chacun des dossiers `top/`, `middle/` et `bottom/` en mémoire.
 - On dessine les trois images chargées en mémoire l'une sur l'autre.
-- Lorsque une touche est appuyée, si elle correspond à la barre d'espace, alors on recharge aléatoirement l'une des images de chacun des dossiers `top/`, `middle/` et `bottom/` en mémoire.
+- Lorsqu'une touche est appuyée, si elle correspond à la barre d'espace, alors on recharge aléatoirement l'une des images de chacun des dossiers `top/`, `middle/` et `bottom/` en mémoire.
 
 ## Remarques
 
