@@ -1,8 +1,5 @@
 # UPMC
 
-## License
-[MIT.](https://tldrlegal.com/license/mit-license)
-
 ## Studio Chevalvert
 [Chevalvert](https://chevalvert.fr/about/) est un studio de design visuel basé à Paris.
 Le studio conçoit des [identités](https://chevalvert.fr/identite/), des [typographies](https://chevalvert.fr/typographie/relief/) et des [installations interactives](https://chevalvert.fr/installation/).
@@ -62,3 +59,6 @@ Tout au long du workshop vous devrez respecter une méthodologie de documentatio
 
 ## Pour commencer
 [→ Importer, disposer et afficher une image](/cours-1/mood-generator-0)
+
+## License
+[MIT.](https://tldrlegal.com/license/mit-license)
