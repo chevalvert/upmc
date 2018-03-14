@@ -51,11 +51,11 @@ Les caractéristiques de ces émotions de base :
 ![ekman-emotions.png](ressources/ekman-emotions.png)
 
 ## Processus de documentation 
-Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela nous:
-- Analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
+Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela :
+- Nous nalyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
 - Vous réaliserez la note d'intention de votre projet, les diagrammes d'interaction, les descriptifs de vos programmes, les croquis de mise en situation
 - Vous documenterez la réalisation et le projet final en vidéo
-- Nous créérons un dossier sur le Github du workshop pour mettre en ligne tous vos codes [Github](https://github.com/)
+- Nous créérons un dossier sur le Github du workshop pour mettre en ligne sur [Github](https://github.com) tous vos codes et documentations.
 
 ## Pour commencer
 [→ Importer, disposer et afficher une image](/cours-1/mood-generator-0)
