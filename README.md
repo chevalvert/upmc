@@ -15,16 +15,15 @@ Nous imaginons et réalisons des installations en utilisant du hardware et du so
 Nous réalisons aussi des dispositifs en utilisant le software de programmation graphique [Processing](https://processing.org/) :  
 - [Ink under paper](https://chevalvert.fr/installation/ink-under-paper/)  
 Dans ce projet nous questionnons le lien entre la matière physique (le papier) et la matière numérique (l'encre digitale créée avec un algorithme qui simule un comportement liquide). 
-
--[Mechanical Frames](https://chevalvert.fr/installation/mechanical-frames/)
+- [Mechanical Frames](https://chevalvert.fr/installation/mechanical-frames/)
 Une autre possibilité est de lier la génération graphique de Processing à des données physiques qui sont transmises au programme par la carte électronique ([Arduino](https://www.arduino.cc/)), reliée à son tous à des capteurs.  
 
 
 ## Qu'est-ce que Processing ?
 Processing est est une bibliothèque Java et un environnement de développement libre. L'outil créé par [Ben Fry](https://fathom.info/about/) et [Casey Reas](http://reas.com/) est un le logiciel de programmation dédié à la création plastique et graphique interactive. 
 
-[Site web du logiciel + ressources](https://processing.org/)  
-[Plateforme d'échange de sketchs de la communauté](https://www.openprocessing.org/)
+- [Site web du logiciel + ressources](https://processing.org/)  
+- [Plateforme d'échange de sketchs de la communauté](https://www.openprocessing.org/)
 
 ## Déroulé du workshop
 3 séances de 4h

@@ -1,4 +1,5 @@
-# Images : importer et afficher
+# cours-1/`mood-generator-0`  
+# Importer et afficher des images
 
 ## `PImage`
 
