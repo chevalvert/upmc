@@ -1,4 +1,4 @@
-# UPMC
+# UE Outils de représentation numérique : Initiation à Processing
 
 ## Studio Chevalvert
 [Chevalvert](https://chevalvert.fr/about/) est un studio de design visuel basé à Paris.
@@ -25,12 +25,12 @@ Processing est est une bibliothèque Java et un environnement de développement 
 ## Déroulé du workshop
 3 séances de 4h
 - S'initier à Processing en analysant les programmes fournis par nos soins
-- Réaliser vos propres programmes en vous les réappropriant
-- Découvrir la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs
-- Appliquer cette méthodologie pour réaliser par groupes de 3 un programme, un dispositif ou une expérience que vous documenterez et présenterez lors de la dernière séance.
+- Concevoir et réaliser un programme/expérience/objet (par groupes de 3)
+- Documenter les programmes/expériences/objets réalisés
+- Présenterez du projet lors de la dernière séance
 
 ## Sujet de départ
-En lien avec Simon Renaud, nous vous proposons comme point de départ l'étude des 6 émotions de base définies par Paul Ekman. Vous réaliserez ensuite des programmes/expériences/objets en lien avec ce sujet.
+En prolongation du sujet initié par Simon Renaud, nous vous proposons comme point de départ l'étude des 6 émotions de base définies par Paul Ekman. Vous réaliserez ensuite des programmes/expériences/objets en lien avec ce sujet.
 
 Les 6 expressions faciales universelles définies par Ekman en 1972 sont :  
 1- Tristesse  
@@ -52,7 +52,7 @@ Les caractéristiques de ces émotions de base :
 
 ## Processus de documentation 
 Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela :
-- Nous nalyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
+- Nous analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas de projets réalisés au studio Chevalvert)
 - Vous réaliserez la note d'intention de votre projet, les diagrammes d'interaction, les descriptifs de vos programmes, les croquis de mise en situation
 - Vous documenterez la réalisation et le projet final en vidéo
 - Nous créérons un dossier sur le Github du workshop pour mettre en ligne sur [Github](https://github.com) tous vos codes et documentations.
