@@ -28,20 +28,20 @@ Processing est est une bibliothèque Java et un environnement de développement 
 ## Déroulé du workshop
 3 séances de 4h
 - S'initier à Processing en analysant les programmes fournis par nos soins
-- Réaliser vos propres programmes en vous réappropriant de ceux-ci
+- Réaliser vos propres programmes en vous les réappropriant
 - Découvrir la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs
 - Appliquer cette méthodologie pour réaliser par groupes de 3 un programme, un dispositif ou une expérience que vous présenterez lors de la dernière séance.
 
 ## Sujet de départ
-En lien avec Simon Renaud, nous vous proposons d'étudier les 6 émotions de base définies par Paul Ekman pour ensuite vous les réapproprier et proposer des programmes qui les questionnent.
+En lien avec Simon Renaud, nous vous proposons d'étudier les 6 émotions de base définies par Paul Ekman pour ensuite créer un ensemble de programmes qui les questionnent.
 
 Les 6 expressions faciales universelles définies par Ekman en 1972 sont :
-1 — Tristesse
-2 — Colère
-3 — Peur
-4 — Dégoût
-5 — Surprise
-6 — Joie
+1 — Tristesse  
+2 — Colère  
+3 — Peur  
+4 — Dégoût  
+5 — Surprise  
+6 — Joie  
 
 Les caractéristiques de ces émotions de base :
 - Elles sont biologiquement préprogrammées.
@@ -51,11 +51,14 @@ Les caractéristiques de ces émotions de base :
 - Elles sont présentes chez d’autres primates que l’humain (ex. singe).
 - Elles ont des expressions universelles. 
 
-
+![ekman-emotions.png](ressources/ekman-emotions.png)
 
 **Note pour Julia et Arnaud**
 - Découvrir la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs :
 	- étude de cas de projets réalisés au studio Chevalvert
 	- réalisation de diagrammes d'interaction et de notes d'intention
 	- documentation vidéo
-	- documentation sur github
+	- documentation sur [Github](https://github.com/)
+
+## Pour commencer
+[→ Importer, disposer et afficher une image](ressources/00_image)

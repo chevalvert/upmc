@@ -54,3 +54,7 @@ On parle de permutation algorithmique, de design d'émergence et de design syst�
 [→ Learning Processing](http://learningprocessing.com/)  
 [→ Processing. S'initier à la programmation créative](https://www.dunod.com/sciences-techniques/processing-initier-programmation-creative)  
 [→ Processing: Le code informatique comme outil de création](https://www.amazon.fr/gp/product/B0074HCKW8/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=bandedessinees-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=B0074HCKW8)  
+
+
+## Pour aller plus loin
+[→ Manipuler des images](../../ressources/00_image)
