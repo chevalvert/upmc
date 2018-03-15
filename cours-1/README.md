@@ -17,6 +17,7 @@
 
 ## Exercices
 
+- Présentation des projets initiés par les groupes au cours de Simon Renaud
 - Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs (exercice individuel `30min`).
 - Utiliser les sketchs que nous avons analysé ensemble pour générer des nouvelles émotions (exercice par groupes de 3 personnes `30min`).
 - Imaginer, réaliser et documenter un programme/expérience/objet en lien avec le sujet du workshop : les 6 émotions de base de Ekman (Par groupes de 3 personnes : `1h`).
