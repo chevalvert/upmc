@@ -6,6 +6,7 @@
 - fonction [`void keyPressed () { ... }`](https://processing.org/reference/keyPressed_.html)
 - fonction [`void mousePressed () { ... }`](https://processing.org/reference/mousePressed_.html)
 - structures conditionnelles [`if(){ ... } else if { ... } else { ... }`](https://processing.org/reference/if.html)
+- variables [int]() et [float]()
 - variables [`mouseX` et `mouseY`](https://processing.org/reference/mouseX.html)
 - variable temps [`counter`](https://processing.org/reference/increment.html)
 - fonctions personnalisées [`nomDeMaFonction()`](http://learningprocessing.com/exercises/chp07/exercise-07-01-functions)
