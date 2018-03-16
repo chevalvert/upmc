@@ -20,5 +20,28 @@
 
 - Présentation des projets initiés par les groupes au cours de Simon Renaud
 - Relire et manipuler les sketchs fournis pour vérifier que tous les concepts présentés aujourd'hui sont clairs (exercice individuel `30min`).
-- Utiliser les sketchs que nous avons analysé ensemble pour générer des nouvelles émotions (exercice par groupes de 3 personnes `30min`).
-- Imaginer, réaliser et documenter un programme/expérience/objet en lien avec le sujet du workshop : les 6 émotions de base de Ekman (Par groupes de 3 personnes : `1h`).
+- Utiliser les sketchs que nous avons analysé ensemble pour générer des nouvelles émotions (exercice individuel `30min`).
+- Imaginer, réaliser et documenter un programme/expérience/objet en lien avec le sujet du workshop : les 6 émotions de base de Ekman (Par groupes de 3 personnes).
+
+
+## Pour aller plus loin
+
+### Ressources en ligne
+
+[→ Reference \ Processing.org](https://processing.org/reference/)  
+[→ Tutorials \ Processing.org](https://processing.org/tutorials/)    
+[→ Learning Processing par Daniel Shiffman](http://learningprocessing.com/exercises/)   
+[→ Vidéo tutoriels par Daniel Shiffman](https://www.youtube.com/user/shiffman/videos)  
+
+### Publications
+
+[→ Learning Processing](http://learningprocessing.com/)  
+[→ Processing. S'initier à la programmation créative](https://www.dunod.com/sciences-techniques/processing-initier-programmation-creative)  
+[→ Processing: Le code informatique comme outil de création](https://www.amazon.fr/gp/product/B0074HCKW8/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=bandedessinees-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=B0074HCKW8)  
+
+### Sites de veille
+
+[→ Creative Applications](http://www.creativeapplications.net/)  
+[→ Chrome experiments](https://experiments.withgoogle.com/chrome)  
+[→ Creative AI](http://www.creativeai.net/)  
+[→ Designboom](https://www.designboom.com/)  
