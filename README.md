@@ -58,8 +58,13 @@ Les caractéristiques de ces émotions de base :
 
 Tout au long du workshop vous devrez respecter une méthodologie de documentation de vos projets. Pour cela :
 - Nous analyserons la méthodologie pour concevoir, réaliser et documenter des prototypes de dispositifs interactifs (étude de cas du projet ["Ink under paper"](https://bricks.chevalvert.fr/projects/ink-under-paper/user:upmc) du studio Chevalvert)
-- Vous réaliserez la note d'intention de votre projet, les croquis de mise en situation, le diagramme d'interaction, la preuve de concept, le synoptique technique, le programme du prototype, le descriptif du programme du prototype et du programme final
-- Vous documenterez tout le process de réalisation et le résultat en vidéo
+- Pour chacun de vos projets vous réaliserez :
+	- la note d’intention
+    - le diagramme d’interaction
+    - le diagramme technique
+    - le descriptif du programme
+    - le programme
+    - la vidéo de documentation du projet
 - Nous créérons un dossier sur la page [Github](https://github.com) du workshop pour mettre en ligne vos projets et toute la documentation
 
 ## Pour commencer
