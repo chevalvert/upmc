@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="diagramme interactif.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="315.67902"
+     inkscape:cy="390.40267"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.42838141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978"
+       id="rect4518"
+       width="78.241066"
+       height="25.324406"
+       x="66.523811"
+       y="103.85417" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.973206"
+       y="106.49999"
+       id="text4522"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="75.973206"
+         y="106.49999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.26458332"
+         dy="4.77">ordinateur (écran)</tspan><tspan
+         sodipodi:role="line"
+         x="75.973206"
+         y="119.72916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.26458332"
+         id="tspan4524">logiciel : processing</tspan><tspan
+         sodipodi:role="line"
+         x="75.973206"
+         y="132.95833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.26458332"
+         id="tspan4526"
+         dy="-5.9300008">sortie son</tspan></text>
+    <rect
+       y="141.38454"
+       x="66.523811"
+       height="25.324406"
+       width="78.241066"
+       id="rect4528"
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.42838141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978" />
+    <text
+       id="text4536"
+       y="154.88097"
+       x="80.886894"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan4534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.26458332"
+         y="154.88097"
+         x="80.886894"
+         sodipodi:role="line"> clavier de piano</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.47468,113.68155 15.22976,-0.13364 0.17949,39.82114 -15.09613,0.0229"
+       id="path4544"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.88393,153.36905 c 0,0 0,0 0,0 z"
+       id="path4546"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text4536-3"
+       y="110.69833"
+       x="149.44717"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89619732px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14740492"
+       xml:space="preserve"
+       transform="scale(0.98924629,1.0108706)"><tspan
+         id="tspan4534-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.93079805px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.14740492"
+         y="110.69833"
+         x="149.44717"
+         sodipodi:role="line">USB</tspan></text>
+    <text
+       transform="scale(0.98924629,1.0108706)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89619732px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14740492"
+       x="147.69104"
+       y="156.56882"
+       id="text4568"><tspan
+         sodipodi:role="line"
+         x="147.69104"
+         y="156.56882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.93079805px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.14740492"
+         id="tspan4566">MIDI (out)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.997134,116.11416 h 3.340869"
+       id="path4570"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4572"
+       d="m 62.997134,154.21431 h 3.340869"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="scale(0.98924629,1.0108706)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89619732px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14740492"
+       x="64.342087"
+       y="113.52163"
+       id="text4576"><tspan
+         sodipodi:role="line"
+         x="64.342087"
+         y="113.52163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.93079805px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.14740492"
+         id="tspan4574">v</tspan></text>
+    <text
+       id="text4580"
+       y="151.19798"
+       x="64.612259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.89619732px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14740492"
+       xml:space="preserve"
+       transform="scale(0.98924629,1.0108706)"><tspan
+         id="tspan4578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.93079805px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.14740492"
+         y="151.19798"
+         x="64.612259"
+         sodipodi:role="line">v</tspan></text>
+    <rect
+       y="219.86353"
+       x="2.4246006"
+       height="20.780823"
+       width="51.246845"
+       id="rect4582"
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.31405705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978" />
+    <rect
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.24315439;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978"
+       id="rect4584"
+       width="41.357872"
+       height="15.435433"
+       x="60.422081"
+       y="212.7585" />
+    <rect
+       y="232.81985"
+       x="60.009766"
+       height="15.969973"
+       width="41.357868"
+       id="rect4586"
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.24732885;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87022972px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24675575"
+       x="6.5135336"
+       y="232.79207"
+       id="text4594"
+       transform="scale(1.0028939,0.99711445)"><tspan
+         sodipodi:role="line"
+         x="6.5135336"
+         y="232.79207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.58015347px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.24675575"
+         id="tspan4592">menu interactif</tspan></text>
+    <text
+       id="text4598"
+       y="215.99634"
+       x="63.408489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.32290745px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25807267"
+       xml:space="preserve"
+       transform="scale(0.97539279,1.025228)"><tspan
+         id="tspan4596"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88193798px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.25807267"
+         y="215.99634"
+         x="63.408489"
+         sodipodi:role="line">niveau novice</tspan></text>
+    <text
+       transform="scale(0.9818313,1.0185049)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.39104748px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2597762"
+       x="61.761028"
+       y="237.90619"
+       id="text4602"><tspan
+         sodipodi:role="line"
+         x="61.761028"
+         y="237.90619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.9273653px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.2597762"
+         id="tspan4600">niveau avancé</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25145522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 60.422086,223.43143 52.939404,223.3175"
+       id="path4604"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.81124389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978"
+       id="rect4610"
+       width="188.89066"
+       height="37.61882"
+       x="103.50579"
+       y="194.14272" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.36281395px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25907034"
+       x="103.07238"
+       y="207.52386"
+       id="text4614"
+       transform="scale(1.0212799,0.9791635)"><tspan
+         sodipodi:role="line"
+         x="103.07238"
+         y="207.52386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         id="tspan4628"><tspan
+   dy="0"
+   id="tspan4656"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034">L'utilisateur essaie de </tspan>reproduire sur le clavier une mélodie facile</tspan><tspan
+         sodipodi:role="line"
+         x="103.07238"
+         y="220.47739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         id="tspan4652">Au bout d'un certain nombre de touches (~10 ?), une touche </tspan><tspan
+         sodipodi:role="line"
+         x="103.07238"
+         y="233.43089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         id="tspan4670">peut renvoyer un bruit aléatoire</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4618"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4620"><rect
+           id="rect4622"
+           width="158.59395"
+           height="66.670067"
+           x="122.22845"
+           y="936.65161" /></flowRegion><flowPara
+         id="flowPara4624"></flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path4668"
+       d="m 60.422086,237.18985 -7.482682,-0.11393"
+       style="fill:none;stroke:#000000;stroke-width:0.25145522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4672"
+       d="m 103.4517,219.29045 -1.86741,-0.11733"
+       style="fill:none;stroke:#000000;stroke-width:0.12747791px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="234.888"
+       x="102.97661"
+       height="37.61882"
+       width="188.89066"
+       id="rect4674"
+       style="opacity:1;fill:#bbc9df;fill-opacity:0.99607843;stroke:none;stroke-width:0.81124389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.19602978" />
+    <text
+       transform="scale(1.0212799,0.9791635)"
+       id="text4684"
+       y="245.89372"
+       x="103.07238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.36281395px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25907034"
+       xml:space="preserve"><tspan
+         id="tspan4678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         y="245.89372"
+         x="103.07238"
+         sodipodi:role="line"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+           id="tspan4676"
+           dy="0">L'utilisateur peut jouer librement toutes les touches du clavier</tspan></tspan><tspan
+         id="tspan4682"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         y="258.84723"
+         x="103.07238"
+         sodipodi:role="line">Au bout d'un certain temps, les sons peuvent se mélanger</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.90854216px;line-height:5.06999977%;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.25907034"
+         y="271.80075"
+         x="103.07238"
+         sodipodi:role="line"
+         id="tspan4688">de façon aléatoire, puis se remettre, etc</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4690"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:offe;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:offe;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4692"><rect
+           id="rect4694"
+           width="1394.2858"
+           height="674.28571"
+           x="-101.42857"
+           y="-100.58491" /></flowRegion><flowPara
+         id="flowPara4696"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.791672"
+       y="97.806549"
+       id="text4700"><tspan
+         sodipodi:role="line"
+         id="tspan4698"
+         x="68.791672"
+         y="97.806549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.26458332">Diagramme technique</tspan></text>
+    <text
+       id="text4704"
+       y="184.74107"
+       x="94.872032"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:offe;-inkscape-font-specification:offe;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.26458332"
+         y="184.74107"
+         x="94.872032"
+         id="tspan4702"
+         sodipodi:role="line">Diagramme intéractif</tspan></text>
+  </g>
+</svg>
