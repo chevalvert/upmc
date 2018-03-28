@@ -71,6 +71,14 @@ Tout au long du workshop vous devrez respecter une méthodologie de documentatio
 
 [→ Importer, disposer et afficher une image](/cours-1/mood-generator-0)
 
+## Pour faire communiquer Processing et Arduino
+(https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
+(https://playground.arduino.cc/Interfacing/Processing)
+
+Capteurs infra rouge
+(https://www.adafruit.com/product/1568)
+(https://www.adafruit.com/product/2168)
+
 ## License
 
 [MIT.](https://tldrlegal.com/license/mit-license)
